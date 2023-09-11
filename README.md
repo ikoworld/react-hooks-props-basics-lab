@@ -70,7 +70,7 @@ Update the `About` component so that:
 
 Create a new component called `Links`. In this component, display the following:
 
-- an `<h3>` element with the text of "Links"
+- an `<h3>` element with the text of 
 - an `<a>` element with its `href` and **text content** set to URL of the user's
   Github link, passed down as a prop
 - a second `<a>` element with its `href` and **text content** set to URL of the
